@@ -1,1 +1,21 @@
-# MusicML Project, followed outline of Nicholas Renotte
+
+# Music Recommender README
+MusicML Project, followed outline of Nicholas Renotte
+
+
+## Overview
+
+This code is designed to create a music genre recommender using a Decision Tree Classifier. It takes into account age and gender as features to predict the preferred music genre.
+
+## Dependencies
+
+Make sure you have the following dependencies installed:
+
+- pandas
+- scikit-learn
+- joblib
+
+You can install them using the following command:
+
+```bash
+pip install pandas scikit-learn joblib
