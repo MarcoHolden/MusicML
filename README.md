@@ -1,6 +1,6 @@
 
 # Music Recommender README
-MusicML Project, followed outline of Nicholas Renotte
+MusicML Project: followed outline of Nicholas Renotte
 
 
 ## Overview
